@@ -1,0 +1,24 @@
+{
+  "student": {
+    "name": "Ahmad Fadhil"
+  },
+  "lecturerCode": "D123",
+  "courses": [
+    {
+      "courseCode": "IF101",
+      "courseName": "Pemrograman Dasar"
+    },
+    {
+      "courseCode": "IF102",
+      "courseName": "Struktur Data"
+    },
+    {
+      "courseCode": "IF103",
+      "courseName": "Pemrograman Web"
+    },
+    {
+      "courseCode": "IF104",
+      "courseName": "Pemrograman Berorientasi Objek"
+    }
+  ]
+}
